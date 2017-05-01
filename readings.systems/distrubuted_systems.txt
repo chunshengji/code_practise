@@ -1,0 +1,6 @@
+https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/
+http://www.startuplessonslearned.com/2009/01/sharding-for-startups.html
+http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf
+
+Videos Links:
+Play list of related videos of distributed computing: https://youtu.be/T9ej3NcE2gQ?list=PLXCArKglxOG9pWzw23kPY-UcFMCuTLWFs
